@@ -656,9 +656,9 @@ clsx@^2.1.1:
   resolved "https://registry.npmmirror.com/clsx/-/clsx-2.1.1.tgz#eed397c9fd8bd882bfb18deab7102049a2f32999"
   integrity sha512-eYm0QWBtUrBWZWG0d386OGAw16Z995PiOVo2B7bjWSbHedGl5e0ZWaq65kOGgUSNesEIDkB9ISbTg/JK9dhCZA==
 
-"codemirror-markdown-tables@https://github.com/MarkEdit-app/codemirror-markdown-tables#v1.1.0":
-  version "1.1.0"
-  resolved "https://github.com/MarkEdit-app/codemirror-markdown-tables#572a24945aff30099ba27a88d9763147cab477f2"
+"codemirror-markdown-tables@https://github.com/MarkEdit-app/codemirror-markdown-tables#v1.2.0":
+  version "1.2.0"
+  resolved "https://github.com/MarkEdit-app/codemirror-markdown-tables#6af8fc4e86d763facd8d27b18c8ca283a89b6d77"
   dependencies:
     clsx "^2.1.1"
 
@@ -1106,9 +1106,9 @@ lru-cache@^5.1.1:
   dependencies:
     yallist "^3.0.2"
 
-"markedit-api@https://github.com/MarkEdit-app/MarkEdit-api#v0.35.0":
-  version "0.35.0"
-  resolved "https://github.com/MarkEdit-app/MarkEdit-api#324896e752deed9eb4dfdf6cca740c134ae8c4af"
+"markedit-api@https://github.com/MarkEdit-app/MarkEdit-api#v0.36.0":
+  version "0.36.0"
+  resolved "https://github.com/MarkEdit-app/MarkEdit-api#5a129bbe5cc1551eaf63883f73680355a4b0711e"
 
 "markedit-vite@https://github.com/MarkEdit-app/MarkEdit-vite#v0.6.0":
   version "0.6.0"

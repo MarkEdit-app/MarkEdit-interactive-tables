@@ -1,6 +1,6 @@
 {
   "name": "markedit-interactive-tables",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Interactive Markdown tables for MarkEdit.",
   "scripts": {
     "build": "vite build",
@@ -21,13 +21,13 @@
     "@codemirror/view": "^6.0.0",
     "@types/node": "^22.0.0",
     "eslint": "^9.27.0",
-    "markedit-api": "https://github.com/MarkEdit-app/MarkEdit-api#v0.35.0",
+    "markedit-api": "https://github.com/MarkEdit-app/MarkEdit-api#v0.36.0",
     "markedit-vite": "https://github.com/MarkEdit-app/MarkEdit-vite#v0.6.0",
     "typescript": "^7.0.0",
     "vite": "^8.0.0",
     "vite-plugin-singlefile": "^2.3.3"
   },
   "dependencies": {
-    "codemirror-markdown-tables": "https://github.com/MarkEdit-app/codemirror-markdown-tables#v1.1.0"
+    "codemirror-markdown-tables": "https://github.com/MarkEdit-app/codemirror-markdown-tables#v1.2.0"
   }
 }
